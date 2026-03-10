@@ -111,9 +111,9 @@ Use the report or presentation materials to understand the final recommendations
 * Portfolio project documentation
 
 ---
-## Project Workflow
+## Project Recommendation
 
-![Customer Behavior Analysis Workflow](power-bi.png)
+![Customer Behavior Analysis Workflow](Recommendation.png)
 
 ## 📜 License
 
