@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Customer Behavior Data Analyst Portfolio Project
+# 👨🏻‍💻 Customer Behavior Data Analyst Project
 
 ## By Praveen Chandrasekaran
 
